@@ -30,7 +30,7 @@ Vue.use(AreaLinkageVue)
 <area-cascader v-model="selected2" :data="$pcaa" :level="2"></area-cascader> // 省市区街道：
 
 ```
-
+更多演示访问 [这里](https://jingxiangrensheng.github.io/area-linkage-vue/).
 
 
 ## 属性
